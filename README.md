@@ -1,2 +1,2 @@
 # FigureScripts
-Python/R scripts for figures and various downstream analysis
+Python/R scripts for graph learning and associated figures, various downstream analysis using torch and torch_geometric.
